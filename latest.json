@@ -1,18 +1,26 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.30.13",
-  "displayVersion": "1.30.13",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.30.13/Diviia_Reels_Maker_1.30.13_Setup.exe",
+  "version": "1.40.0",
+  "displayVersion": "1.40",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.0/Diviia_Reels_Maker_1.40.0_Setup.exe",
   "notes": [
-    "🚀 Desteğinizle Diviia gelişmeye devam ediyor!",
-    "Akıcılaştırma motoru yenilendi; hızlı hareketlerde bozulmayı azaltan hareket koruması eklendi.",
-    "Görüntü iyileştirme (Beta): CPU veya GPU ile işle, gerçek önce/sonra görüntülerini karşılaştır.",
-    "Paneller yenilendi; kadraj, logo/çerçeve, ses ve dışa aktarma ayarları daha düzenli, kısayollar görünür.",
-    "Altyazıda otomatik gösterim, rahat büyütme/döndürme ve toplu düzenleme; şarkı çevirisi ve bekleme yönetimi iyileştirildi.",
-    "Dışa aktarmada bellek kullanımı, yüzde ve kalan süre iyileştirildi; kullanım kılavuzu yenilendi.",
-    "Lisansını deneme sırasında veya sonrasında programın içinden etkinleştir; başlatıcıda anahtar girmene gerek yok."
+    "🎬 Desteğinizle hazırladığımız güncellemeler",
+    "✨ DLSS 5 ile uyumlu RTX kartlarda görüntüyü, kamerayı veya oyunu ayrı iyileştir.",
+    "🔊 Programla gelen 149 ses efektini kategorilerden seç, dinle ve favorilerine ekle.",
+    "🎞️ Video ve GIF katmanlarına yeşil fon temizleme, ses, sönüş, ayna ve favoriler eklendi.",
+    "⏱️ Klip hızını veya süresini ayarla. Yavaşlatmada Optical Flow ara kare üretir.",
+    "⏪ Klibi ters oynat, görüntüyü aynala veya kamera ve oyun karesini ayrı dondur.",
+    "🎙️ Robot, telsiz, çocuk, kalın ve ince ses dahil 8 ses değiştirme profili.",
+    "💬 49 animasyonlu altyazı şablonu ve ElevenLabs ile Yüksek doğruluk seçeneği.",
+    "🎨 17 hareketli efekt, 5 yeni hazır görünüm ve alan bulanıklaştırma.",
+    "📥 Bağlantıdan video bölümü indir ve konuşmada kelime ara.",
+    "🎚️ Kameraya ve oyuna ayrı akıcılaştırma, 960 FPS ve ayarlanabilir önizleme.",
+    "🧰 Seçili videoları tek sıraya alma ve daha sade düzenleme panelleri.",
+    "📘 Şifreli ayar yedeği, hata kaydı aktarımı ve yeni resimli kullanım kılavuzu.",
+    "🛠️ Kapsamlı performans optimizasyonları ve hata düzeltmeleri.",
+    "Eklememizi istediğiniz bir özellik varsa geri bildirimlerinizi bekliyoruz. Keyifli kullanımlar dileriz!"
   ],
-  "sha256": "c2617359d4ceca639215ab3dac8668bf2c31767f8c82c731104934cc9436d072",
-  "size": 311332352
+  "sha256": "8dfdf761df88c48c5d8beee0dc8320104c3d35b0d1431ed2eb9193c6f51d9167",
+  "size": 336525824
 }
