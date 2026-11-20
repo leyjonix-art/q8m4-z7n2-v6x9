@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.40.1",
-  "displayVersion": "1.40.1",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.1/Diviia_Reels_Maker_1.40.1_Setup.exe",
+  "version": "1.40.2",
+  "displayVersion": "1.40.2",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.2/Diviia_Reels_Maker_1.40.2_Setup.exe",
   "notes": [
     "🎬 Desteğinizle hazırladığımız güncellemeler",
     "✨ DLSS 5 ile uyumlu RTX kartlarda görüntüyü, kamerayı veya oyunu ayrı iyileştir.",
@@ -21,6 +21,6 @@
     "🛠️ Kapsamlı performans optimizasyonları ve hata düzeltmeleri.",
     "Eklememizi istediğiniz bir özellik varsa geri bildirimlerinizi bekliyoruz. Keyifli kullanımlar dileriz!"
   ],
-  "sha256": "aeef7188a338215d5b6a837527739625faab8790d625072c3f06d5104582a420",
-  "size": 419063808
+  "sha256": "71535b2287cdbee638721b0bc7df4386a18566532f5779421bc0b8c7ff3df706",
+  "size": 418791424
 }
