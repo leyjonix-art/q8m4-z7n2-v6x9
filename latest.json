@@ -5,21 +5,13 @@
   "displayVersion": "1.40.3",
   "downloadUrl": "https://github.com/leyjonix-art/q8m4-z7n2-v6x9/releases/download/v1.40.3/Diviia_Reels_Maker_1.40.3_Setup.exe",
   "notes": [
-    "🎬 Desteğinizle hazırladığımız güncellemeler",
-    "✨ DLSS 5 ile uyumlu RTX kartlarda görüntüyü, kamerayı veya oyunu ayrı iyileştir.",
-    "🔊 Programla gelen 149 ses efektini kategorilerden seç, dinle ve favorilerine ekle.",
-    "🎞️ Video ve GIF katmanlarına yeşil fon temizleme, ses, sönüş, ayna ve favoriler eklendi.",
-    "⏱️ Klip hızını veya süresini ayarla. Yavaşlatmada Optical Flow ara kare üretir.",
-    "⏪ Klibi ters oynat, görüntüyü aynala veya kamera ve oyun karesini ayrı dondur.",
-    "🎙️ Robot, telsiz, çocuk, kalın ve ince ses dahil 8 ses değiştirme profili.",
-    "💬 49 animasyonlu altyazı şablonu ve ElevenLabs ile Yüksek doğruluk seçeneği.",
-    "🎨 17 hareketli efekt, 5 yeni hazır görünüm ve alan bulanıklaştırma.",
-    "📥 Bağlantıdan video bölümü indir ve konuşmada kelime ara.",
-    "🎚️ Kameraya ve oyuna ayrı akıcılaştırma, 960 FPS ve ayarlanabilir önizleme.",
-    "🧰 Seçili videoları tek sıraya alma ve daha sade düzenleme panelleri.",
-    "📘 Şifreli ayar yedeği, hata kaydı aktarımı ve yeni resimli kullanım kılavuzu.",
-    "🛠️ Kapsamlı performans optimizasyonları ve hata düzeltmeleri.",
-    "Eklememizi istediğiniz bir özellik varsa geri bildirimlerinizi bekliyoruz. Keyifli kullanımlar dileriz!"
+  "🎬 Dışa aktarma hızlandırıldı. Ekran sarsıntısı, yakınlaşma ve bazı hareket efektleri işlenirken bekleme süresi kısaltıldı.
+  "💬 Altyazı hatası düzeltildi. Bazı animasyonlu altyazılar kullanıldığında dışa aktarmanın yarıda kalmasına yol açan hata giderildi.
+  "⚡ Akıcılaştırma iyileştirildi. Akıcılaştırılmış videoya efekt veya altyazı eklendiğinde akıcılaştırmanın gereksiz yere yeniden çalışması önlendi.
+  "🔄 Güncelleme ekranı düzeltildi. “Güncelleme hazırlanıyor” penceresinin takılı kalmasına yol açan hata giderildi ve pencere sadeleştirildi.
+  "🔑 Lisans etkinleştirme iyileştirildi. Geçici bir bağlantı hatası isteğin gönderilmesini engellerse uygulama otomatik olarak bir kez daha deniyor.
+  "🛠️ Destek kayıtları genişletildi. Ayarlar → Log aktar ile alınan kayıt artık lisans ve güncelleme hatalarının hangi aşamada oluştuğunu daha ayrıntılı gösteriyor.
+     "Geri bildirimlerinizi ve özellik önerilerinizi bekliyoruz. Keyifli kullanımlar! 💜
   ],
   "sha256": "f826ca9281c72455c0540d9eda43adfa6b1403578c783ab8ce59ad18505a542b",
   "size": 418985984
