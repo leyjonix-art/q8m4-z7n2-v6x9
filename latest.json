@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.40.2",
-  "displayVersion": "1.40.2",
+  "version": "1.40.3",
+  "displayVersion": "1.40.3",
   "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.2/Diviia_Reels_Maker_1.40.2_Setup.exe",
   "notes": [
     "🎬 Desteğinizle hazırladığımız güncellemeler",
@@ -21,6 +21,6 @@
     "🛠️ Kapsamlı performans optimizasyonları ve hata düzeltmeleri.",
     "Eklememizi istediğiniz bir özellik varsa geri bildirimlerinizi bekliyoruz. Keyifli kullanımlar dileriz!"
   ],
-  "sha256": "71535b2287cdbee638721b0bc7df4386a18566532f5779421bc0b8c7ff3df706",
-  "size": 418791424
+  "sha256": "f826ca9281c72455c0540d9eda43adfa6b1403578c783ab8ce59ad18505a542b",
+  "size": 418795234
 }
