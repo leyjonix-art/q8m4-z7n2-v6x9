@@ -5,14 +5,14 @@
   "displayVersion": "1.40.3",
   "downloadUrl": "https://github.com/leyjonix-art/q8m4-z7n2-v6x9/releases/download/v1.40.3/Diviia_Reels_Maker_1.40.3_Setup.exe",
   "notes": [
-  "🎬 Dışa aktarma hızlandırıldı. Ekran sarsıntısı, yakınlaşma ve bazı hareket efektleri işlenirken bekleme süresi kısaltıldı.
-  "💬 Altyazı hatası düzeltildi. Bazı animasyonlu altyazılar kullanıldığında dışa aktarmanın yarıda kalmasına yol açan hata giderildi.
-  "⚡ Akıcılaştırma iyileştirildi. Akıcılaştırılmış videoya efekt veya altyazı eklendiğinde akıcılaştırmanın gereksiz yere yeniden çalışması önlendi.
-  "🔄 Güncelleme ekranı düzeltildi. “Güncelleme hazırlanıyor” penceresinin takılı kalmasına yol açan hata giderildi ve pencere sadeleştirildi.
-  "🔑 Lisans etkinleştirme iyileştirildi. Geçici bir bağlantı hatası isteğin gönderilmesini engellerse uygulama otomatik olarak bir kez daha deniyor.
-  "🛠️ Destek kayıtları genişletildi. Ayarlar → Log aktar ile alınan kayıt artık lisans ve güncelleme hatalarının hangi aşamada oluştuğunu daha ayrıntılı gösteriyor.
-     "Geri bildirimlerinizi ve özellik önerilerinizi bekliyoruz. Keyifli kullanımlar! 💜
+    "🎬 Dışa aktarma hızlandırıldı. Ekran sarsıntısı, yakınlaşma ve bazı hareket efektleri işlenirken bekleme süresi kısaltıldı.",
+    "💬 Altyazı hatası düzeltildi. Bazı animasyonlu altyazılar kullanıldığında dışa aktarmanın yarıda kalmasına yol açan hata giderildi.",
+    "⚡ Akıcılaştırma iyileştirildi. Akıcılaştırılmış videoya efekt veya altyazı eklendiğinde akıcılaştırmanın gereksiz yere yeniden çalışması önlendi.",
+    "🔄 Güncelleme ekranı düzeltildi. “Güncelleme hazırlanıyor” penceresinin takılı kalmasına yol açan hata giderildi ve pencere sadeleştirildi.",
+    "🔑 Lisans etkinleştirme iyileştirildi. Geçici bir bağlantı hatası isteğin gönderilmesini engellerse uygulama otomatik olarak bir kez daha deniyor.",
+    "🛠️ Destek kayıtları genişletildi. Ayarlar → Log aktar ile alınan kayıt artık lisans ve güncelleme hatalarının hangi aşamada oluştuğunu daha ayrıntılı gösteriyor.",
+    "Geri bildirimlerinizi ve özellik önerilerinizi bekliyoruz. Keyifli kullanımlar! 💜"
   ],
-  "sha256": "f826ca9281c72455c0540d9eda43adfa6b1403578c783ab8ce59ad18505a542b",
+  "sha256": "053160e3fbfde5736471fc12adb8b4fae757f966a912c23bbcb9a7ba3e1de22e",
   "size": 418985984
 }
