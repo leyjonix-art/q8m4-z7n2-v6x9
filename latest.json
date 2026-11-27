@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.40.3",
-  "displayVersion": "1.40.3",
-  "downloadUrl": "https://github.com/leyjonix-art/q8m4-z7n2-v6x9/releases/download/v1.40.3/Diviia_Reels_Maker_1.40.3_Setup.exe",
+  "version": "1.40.4",
+  "displayVersion": "1.40.4",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.4/Diviia_Reels_Maker_1.40.4_Setup.exe",
   "notes": [
-    "🎬 Dışa aktarma hızlandırıldı. Ekran sarsıntısı, yakınlaşma ve bazı hareket efektleri işlenirken bekleme süresi kısaltıldı.",
-    "💬 Altyazı hatası düzeltildi. Bazı animasyonlu altyazılar kullanıldığında dışa aktarmanın yarıda kalmasına yol açan hata giderildi.",
-    "⚡ Akıcılaştırma iyileştirildi. Akıcılaştırılmış videoya efekt veya altyazı eklendiğinde akıcılaştırmanın gereksiz yere yeniden çalışması önlendi.",
-    "🔄 Güncelleme ekranı düzeltildi. “Güncelleme hazırlanıyor” penceresinin takılı kalmasına yol açan hata giderildi ve pencere sadeleştirildi.",
-    "🔑 Lisans etkinleştirme iyileştirildi. Geçici bir bağlantı hatası isteğin gönderilmesini engellerse uygulama otomatik olarak bir kez daha deniyor.",
-    "🛠️ Destek kayıtları genişletildi. Ayarlar → Log aktar ile alınan kayıt artık lisans ve güncelleme hatalarının hangi aşamada oluştuğunu daha ayrıntılı gösteriyor.",
+    "Geri bildirimlerinizle güncelleme ve dışa aktarmayı iyileştirdik.",
+    "🔄 Güncelleme döngüsü düzeltildi. Kurulum bitince program yeni sürümle açılıyor ve aynı güncellemeyi tekrar istemiyor.",
+    "⏱️ Güncelleme ekranı, programın kapanması beklenirken durumu gösteriyor ve kurulum bitince otomatik kapanıyor.",
+    "🛠️ Dışa aktarmada bellek yetersizliği yaşanırsa program uygun durumlarda seçtiğiniz kaliteyi koruyarak daha az bellekle yeniden deniyor.",
+    "🔊 Dışa aktarılan videoda video katmanının sesi klip bitince duruyor.",
+    "⚡ Bazı performans iyileştirmeleri yapıldı.",
     "Geri bildirimlerinizi ve özellik önerilerinizi bekliyoruz. Keyifli kullanımlar! 💜"
   ],
-  "sha256": "053160e3fbfde5736471fc12adb8b4fae757f966a912c23bbcb9a7ba3e1de22e",
-  "size": 418985984
+  "sha256": "669efcdb23abf6cd72bba1ac6ad4e10a3745ec7db81ce7fa8bae9b8eda58da04",
+  "size": 447576576
 }
