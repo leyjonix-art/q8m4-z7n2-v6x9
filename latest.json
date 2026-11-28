@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "app": "diviia-reels-maker",
-  "version": "1.40.4",
-  "displayVersion": "1.40.4",
-  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.4/Diviia_Reels_Maker_1.40.4_Setup.exe",
+  "version": "1.40.5",
+  "displayVersion": "1.40.5",
+  "downloadUrl": "https://github.com/leyjonix-art/diviia-reels-maker-updates/releases/download/v1.40.5/Diviia_Reels_Maker_1.40.5_Setup.exe",
   "notes": [
     "Geri bildirimlerinizle güncelleme ve dışa aktarmayı iyileştirdik.",
     "🔄 Güncelleme döngüsü düzeltildi. Kurulum bitince program yeni sürümle açılıyor ve aynı güncellemeyi tekrar istemiyor.",
@@ -13,6 +13,6 @@
     "⚡ Bazı performans iyileştirmeleri yapıldı.",
     "Geri bildirimlerinizi ve özellik önerilerinizi bekliyoruz. Keyifli kullanımlar! 💜"
   ],
-  "sha256": "669efcdb23abf6cd72bba1ac6ad4e10a3745ec7db81ce7fa8bae9b8eda58da04",
-  "size": 447576576
+  "sha256": "0d49a0e6927052d474977511d3843a630a4b6a24afc26bca86951d8815c99f88",
+  "size": 447485952
 }
